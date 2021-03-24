@@ -1,0 +1,8 @@
+Instructions :
+
+1. setup database ada 2 file di file core/db.php dan file client/reloader.php
+
+2. buat folder di root htdocs dengan nama cheatchat dan extract disana
+
+
+
